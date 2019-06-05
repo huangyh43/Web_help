@@ -4,6 +4,10 @@ Aloha
 Please see the wiki
 
 -----------------------------------------------------
+Quadricopter Control in Vrep:
+
+https://blog.csdn.net/banzhuan133/article/details/86237661
+
 
 Temp URL:
 

@@ -4,6 +4,12 @@ Aloha
 Please see the wiki
 
 -----------------------------------------------------
+ROS for Python 3
+
+https://zhidao.baidu.com/question/1116512378559354699.html
+
+
+-----------------------------------------------------
 Quadricopter Control in Vrep:
 
 https://blog.csdn.net/banzhuan133/article/details/86237661

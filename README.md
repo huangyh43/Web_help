@@ -8,6 +8,7 @@ ROS for Python 3
 
 https://zhidao.baidu.com/question/1116512378559354699.html
 
+https://www.cnblogs.com/h46incon/p/6207145.html
 
 -----------------------------------------------------
 Quadricopter Control in Vrep:

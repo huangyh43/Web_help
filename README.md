@@ -5,6 +5,7 @@ Please see the wiki
 
 -----------------------------------------------------
 For the wall:
+
 https://jsqpro.link/user/node
 
 https://docs.cfw.lbyczf.com/

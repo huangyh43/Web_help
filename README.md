@@ -4,6 +4,11 @@ Aloha
 Please see the wiki
 
 -----------------------------------------------------
+For the wall:
+https://jsqpro.link/user/node
+https://docs.cfw.lbyczf.com/
+
+-----------------------------------------------------
 ROS for Python 3
 
 https://zhidao.baidu.com/question/1116512378559354699.html
